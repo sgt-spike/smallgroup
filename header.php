@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,6 +11,6 @@
     <main class="main-container">
         <nav class="nav">
             <ul>
-                <li><a href="../index.php">Home</a></li>
+                <li><a href="index.php">Home</a></li>
             </ul>
         </nav>
