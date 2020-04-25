@@ -7,7 +7,7 @@
                 <h1>Session 8: Reading the New Testament Letters and Revelation</h1>
             </header>
             <div class="video">
-                <video class="video" type="video/mp4" width="850" height="620" src="videos/Session8.m4v" controls></video>
+                <video class="video" type="video/mp4" width="850" height="620" src="videos/Session8.m4v" controls poster="img/logo.jpg"></video>
             </div>
             <div class="docs">
                 <h2>Study Materials</h2>
